@@ -1,0 +1,23 @@
+{
+  "name": "hm-lib-validation",
+  "version": "0.0.0",
+  "description": "An AngularJS module exporting a basic object/value validation service",
+  "main": "./src/validation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/honkmobile/hm-lib-validation"
+  },
+  "author": "Ryan Albon <ryan@honkmobile.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honkmobile/hm-lib-validation/issues"
+  },
+  "homepage": "https://github.com/honkmobile/hm-lib-validation",
+  "devDependencies": {
+    "gulp-uglify": "~0.3.1",
+    "gulp": "~3.8.6"
+  }
+}
