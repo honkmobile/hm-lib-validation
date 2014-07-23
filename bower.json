@@ -1,0 +1,19 @@
+{
+  "name": "hm-lib-validation",
+  "version": "0.1.0",
+  "homepage": "https://github.com/honkmobile/hm-lib-validation",
+  "authors": [
+    "Ryan Albon <ryan@honkmobile.com>"
+  ],
+  "description": "An AngularJS module exporting a basic object/value validation service",
+  "main": "./src/validation.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
